@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development & Flutter**
 
-- 👨‍💻 All of my projects are available at [https://mohangowdat.bio.link/](https://mohangowdat.bio.link/)
+- 👨‍💻 All of my projects are available at [kutt.it/mohangowdat](https://kutt.it/mohangowdat)
 
 - 💬 Ask me about **Pretty much anything Tech :)**
 
