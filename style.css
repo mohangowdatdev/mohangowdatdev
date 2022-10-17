@@ -1,0 +1,141 @@
+/*ColorPalette - https://colorhunt.co/palette/fff5e4ffe3e1ffd1d1ff9494 */
+
+
+
+.profile-pic{
+    float:right;
+}
+
+
+.footer-region{
+    height:20px;
+    border-top:2px solid #a33333;
+    
+}
+
+.education {
+    border: 1px solid #ff9494;
+    padding: 10px 0px 30px;
+}
+.experience {
+    border: 1px solid #ff9494;
+    padding: 10px 0px 30px;
+}
+
+
+.circular-pic {
+        width: 400px;
+        height: 400px;
+        border: 10px solid #ff9494;
+        border-radius: 100%;
+        border-style:double;
+        padding: 10px;
+        
+}
+
+/* Shine */
+.hover14 figure {
+	position: relative;
+}
+.hover14 figure::before {
+	position: absolute;
+	top: 0;
+	left: -75%;
+	z-index: 2;
+	display: block;
+	content: '';
+	width: 50%;
+	height: 100%;
+	background: -webkit-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,.3) 100%);
+	background: linear-gradient(to right, rgba(255,255,255,0) 0%, rgba(255,255,255,.3) 100%);
+	-webkit-transform: skewX(-25deg);
+	transform: skewX(-25deg);
+}
+.hover14 figure:hover::before {
+	-webkit-animation: shine .75s;
+	animation: shine .75s;
+}
+@-webkit-keyframes shine {
+	100% {
+		left: 125%;
+	}
+}
+@keyframes shine {
+	100% {
+		left: 125%;
+	}
+}
+
+
+.full-body {
+    background-color: #FFF5E4;
+    margin: 20px;
+}
+
+
+footer {
+    position:fixed;
+    bottom: 0%;
+}
+
+hr.style1 {
+	background-color: #FFF5E4;
+	border-top: 5px dotted #ff9494;
+    width:10%;
+}
+hr.style2 {
+	background-color: #FFF5E4;
+    width:60%;
+	border-top: 2px solid #ff9494;
+    float:left;width:50%;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 20px;
+  border-radius: 100%;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.card{
+    border:5px solid #a33333;
+    border-radius:25px ;
+    box-shadow: 0 4px 4px #f1b3b3,0 4px 4px #f1b3b3,0 4px 4px #f1b3b3,0 4px 4px #f1b3b3,0 4px 4px #f1b3b3;
+    margin: 0px 20px 0px;
+}
+
+.fa-linkedin {
+  background: #e99595;
+  color: white;
+}
+.fa-github {
+  background: #f1b3b3;
+  color: white;
+}
+.fa-twitter {
+  background: #e99595;
+  color: white;
+}
+.fa-dribbble {
+  background: #e99595;
+  color: white;
+}
+.fa-telegram {
+  background: #f1b3b3;
+  color: white;
+}
+.fa-arrow-up {
+    background: #f1b3b3;
+  color: white;
+  margin-right: 0%;
+  float:right;
+  border: 2px solid red;
+}
+/*#bb6868*/
