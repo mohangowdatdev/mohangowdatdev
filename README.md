@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Python for CP.**
 
-- 👨‍💻 All of my projects are available at [https://www.mohangowda.bio.link](https://www.mohangowda.bio.link)
+- 👨‍💻 All of my projects are available at [https://www.mohangowda.bio.link](https://mohangowda.bio.link)
 
-- 🎨 All of my designs are available at [https://www.mohangowdat.bio.link](https://www.mohangowdat.bio.link)
+- 🎨 All of my designs are available at [https://www.mohangowdat.bio.link](https://mohangowdat.bio.link)
 
 - 💬 Ask me about **Career, Life, Programming, Relationships & pretty much everything 🖤**
 
