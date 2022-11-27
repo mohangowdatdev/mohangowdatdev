@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohan Gowda T</h1>
 <h3 align="center">I'm a UiX Designer and Competitive programmer from India[🇮🇳]🧑‍💻.</h3>
 
-- 🔭 I’m currently working on [Solving more Problems.](https://www.mohangowda.bio.link)
+- 🔭 I’m currently working on [Solving more Problems.](https://mohangowda.bio.link)
 
 - 🌱 I’m currently learning **Python for CP.**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Career, Life, Programming, Relationships & pretty much everything 🖤**
 
-- 📫 How to reach me ? **Checkout my Website [here](https://www.mohangowda.bio.link).**
+- 📫 How to reach me ? **Checkout my Website [here](https://mohangowda.bio.link).**
 
 - ⚡ Fun fact **You lived my childhood dream! :D**
 
