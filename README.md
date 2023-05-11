@@ -1,3 +1,5 @@
+![](header.png)
+
 # 💫 About Me:
 🧑‍🎓 Computer Science Undergrad <br>📊 Aspiring Data Scientist<br>🎨 Ui/Ux & Graphics Designer<br>🧑‍💻 Competitive Programmer - C++<br>💻 Taking baby steps in Open Source <br>📍 Based in Bangalore, INDIA<br>--<br>Photography, Books & Anime are my addictions.
 
@@ -14,9 +16,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohangowdatdev&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=mohangowda_t)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
