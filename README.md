@@ -1,7 +1,7 @@
 ![](header.png)
 
 # 💫 About Me:
-🧑‍🎓 Computer Science Undergrad <br>📊 Aspiring Data Scientist<br>🎨 Ui/Ux & Graphics Designer<br>🧑‍💻 Competitive Programmer - C++<br>💻 Taking baby steps in Open Source <br>📍 Based in Bangalore, INDIA<br>--<br>Photography, Books & Anime are my addictions.
+🧑‍🎓 Computer Science Undergrad <br>📊 Aspiring Data Scientist<br>🎨 Ui/Ux & Graphics Designer<br>🧑‍💻 Competitive Programmer - C++<br>💻 Taking baby steps in Open Source <br>📍 Based in Bangalore, INDIA<br>--<br>Photography, Books & Anime are my addictions. <br>
 [![](https://visitcount.itsvg.in/api?id=mohangowdatdev&label=Stalkers:&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in) since 14th May 2023
 ---
 ## 🌐 Socials:
