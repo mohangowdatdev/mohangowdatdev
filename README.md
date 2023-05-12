@@ -24,7 +24,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mohangowdatdev&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mohangowdatdev&label=Stalkers&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mohangowdatdev&label=Stalkers:&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <br>
 Counter Started on 14th May 2023
 ---
