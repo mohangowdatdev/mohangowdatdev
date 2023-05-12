@@ -1,9 +1,12 @@
 ![](header.png)
 
 # 💫 About Me:
-🧑‍🎓 Computer Science Undergrad <br>📊 Aspiring Data Scientist<br>🎨 Ui/Ux & Graphics Designer<br>🧑‍💻 Competitive Programmer - C++<br>💻 Taking baby steps in Open Source <br>📍 Based in Bangalore, INDIA<br>--<br>Photography, Books & Anime are my addictions. <br>
-[![](https://visitcount.itsvg.in/api?id=mohangowdatdev&label=Stalkers:&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in) since 14th May 2023
+🧑‍🎓 Computer Science Undergrad <br>📊 Aspiring Data Scientist<br>🎨 Ui/Ux & Graphics Designer<br>🧑‍💻 Competitive Programmer - C++<br>💻 Taking baby steps in Open Source <br>📍 Based in Bangalore, INDIA<br>--<br>Photography, Books & Anime are my addictions.
+
 ---
+[![](https://visitcount.itsvg.in/api?id=mohangowdatdev&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)<br>
+since 14th May 2023
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mohangowdat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MohanGowdaT) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mohangowda-mgt) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mohangowda_t) 
 
@@ -22,7 +25,9 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mohangowdatdev&limit=5&theme=nord&combine_all_yearly_contributions=true)
+
 ---
+
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mohangowdat) 
 
