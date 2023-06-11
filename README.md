@@ -5,7 +5,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohangowdatdev&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)<br>
-since 14th May 2023
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mohangowdat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MohanGowdaT) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mohangowda-mgt) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mohangowda_t) 
