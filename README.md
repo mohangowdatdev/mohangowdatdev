@@ -1,7 +1,7 @@
 ![](header.png)
 
 # 💫 About Me:
-Data Scientist by Profession • Writer by Obsession • Coder & Designer in Action<br>I do these <br>📊 Data Analytics<br>🧑‍💻 Competitive Programming<br>🎨 UI & Graphics Designing<br>✍️ Blogging<br>🌟 Collaboration & Projects<br>and a lot more…
+<b>Data Scientist by Profession • Writer by Obsession • Coder & Designer in Action</b><br><br>I do these <br>📊 Data Analytics<br>🧑‍💻 Competitive Programming<br>🎨 UI & Graphics Designing<br>✍️ Blogging<br>🌟 Collaboration & Projects<br>and a lot more…
 
 
 ## 🌐 Socials:
